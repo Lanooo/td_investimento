@@ -1,6 +1,3 @@
-import abc
-
-
 while True:
     print ("--------------------------------")
     print ("  Seja bem-vindo(a) ao My Bank  ")
